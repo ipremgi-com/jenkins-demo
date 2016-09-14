@@ -16,6 +16,7 @@ public class Main {
         peoples.add(new Person("Ivan", "Premgi", 20));
         peoples.add(new Person("Arfy", "Shah", 24));
         peoples.add(new Person("Joe", "Wogan", 21));
+        
     }
 
 }
